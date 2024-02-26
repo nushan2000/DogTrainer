@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775931808674",
+    "project_id": "dogtrainer-e0336",
+    "storage_bucket": "dogtrainer-e0336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775931808674:android:64620afd4f2ae43d7880fb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8mW_dMK0yI_1NAOF380OxudsUx1l26hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

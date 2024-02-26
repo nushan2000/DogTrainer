@@ -1,0 +1,35 @@
+<!-- res/layout/fragment_dashboard.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".ui.dashboard.DashboardFragment">
+
+    <!-- Your other UI elements can be added here if needed -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:gravity="center"
+        android:text="Support Requests"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="376dp"
+        android:layout_height="560dp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/buttonme"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Messages" />
+
+</LinearLayout>
