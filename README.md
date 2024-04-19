@@ -1,6 +1,6 @@
 # Dog Trainer 🐾
 
-![Dog Trainer Logo](DogTrainer/app/src/main/res/drawable/logo.png)
+![Dog Trainer Logo](app/src/main/res/drawable/logo.png)
 
 Welcome to Dog Trainer, your ultimate canine companion Android application! Whether you're a passionate pet parent or a seasoned professional, Dog Trainer is here to revolutionize the world of canine training.
 
