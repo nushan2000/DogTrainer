@@ -16,7 +16,7 @@ Welcome to Dog Trainer, your ultimate canine companion Android application! Whet
 
 Curious to see Dog Trainer in action? Watch our demo video and witness the power of modern training technology!
 
-[Watch Demo Video](demo_video_link)
+[Watch Demo Video]([demo_video_link](https://www.linkedin.com/posts/nushan-ediriwickrama-0278842b2_dogtrainer-caninetraining-androidapp-activity-7163668024464494592-05S2?utm_source=share&utm_medium=member_desktop))
 
 ## Installation 🛠️
 
@@ -35,10 +35,6 @@ Contributions are welcome! If you'd like to contribute to Dog Trainer, please fo
 3. Make your changes and commit them.
 4. Submit a pull request to the main repository's main branch.
 
-## Screenshots 📸
-
-![Screenshot 1](images/screenshot_1.png)
-![Screenshot 2](images/screenshot_2.png)
 
 ## Let's Connect! 🐶
 
