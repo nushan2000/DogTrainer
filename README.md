@@ -9,8 +9,7 @@ Welcome to Dog Trainer, your ultimate canine companion Android application! Whet
 - **Step-by-Step Training Guides:** Access comprehensive training instructions tailored to your dog's needs.
 - **Connect with Certified Trainers:** Gain insights and advice from experienced professionals.
 - **Request Assistance:** Get real-time support whenever you need it.
-- **Personalized Recommendations:** Receive customized training tips based on your dog's progress.
-- **Progress Tracking:** Monitor your dog's development and celebrate milestones.
+
 
 ## Demo 📽️
 
